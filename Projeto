@@ -1,0 +1,18 @@
+Projeto
+
+1 - Instalar Node V12/V12 - Verificar Versão 
+        Instalar Nodemon: npm instal nodemon / 
+            configurar: packpage.json > "scripts": {"start": "nodemin index.js"},.
+2 - Instalar NPM - Verificar Versão.
+3 - Instalar Framework Express (ajuda no start da aplicação para nao precisar configurar grandes demandas).
+4 - Instalar: npx create-react-app frontend (Criando o projet React)
+    Expo: Para obter SDKS (iOS e Android).
+5 -  Instalar Insomnia REST para simular e testar rotas.
+6 - Instalar Query Builder: Knex
+        Apos o passo 7, criar arquivo de3 configuração na pasta raiz backend: npx knex init.
+7 - Instalar Driver: Sqlite3.
+8 - Instalar Cors
+9 - Criar Migrations / Configurar
+10 - Instalar: npm install react-icons
+11 - Instalar: npm install react-router-dom
+12 - Instalar: npm install axios

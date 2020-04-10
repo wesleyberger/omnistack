@@ -1,0 +1,57 @@
+Omnistack
+
+Backend:
+
+1 - Utilizar/Configurar NodeJS utilizando Chocolatey (gerenciador de pacotes recomendado).
+2 - No próprio terminal do Visual Code, instalar o framework express. comando = npm install express
+3 - Criar primeiro projeto React. Comand Shell: npx create-react-app frontend
+4 - utulizar "Expo" para facilitar o desenvolvimentos de SDK (apk e ipa)
+5 -  Utilizar a biblioteca Express
+6 - Usar nodemon para desenvolver sem ficar restartando o NodeJS    
+7- 
+
+
+/**
+ * METODO HTTP:
+ * 
+ * GET: Buscar uma informação no back-end.
+ * POST: Criar uma informação no back-end.
+ * PUT: Altera uma informação no back-end.
+ * DELETE: Deletar uma informação no back-end
+ * 
+ * Tipo de parametros:
+ *  Query Params: Parâmetros nomeados enviados na rota após "?" (Filtros, paginação)
+ *  Route Params: Parâmetro usado para identificar recursos.
+ *  Request Body: Corpo da requisição, utilizado para criar ou alterar recursos.
+ * 
+ * Tipo de requerimento com o banco: Vamos usar o SQLite 3
+ * Driver: SELECT * FROM users
+ * Query Builder: table('users').select('*') 
+ * Vamos utilizar o Query builder chamado "Knex" pela versatilidade com todos os tipos de bancos.
+ * Apos instalar o Knex, basta executar na pasta backend o comando: npx knex init   ...Apos isso será criado um novo arquivo com as config.
+ * Configurar as rotas (routes) entre index.js e routes.js
+ * Criar pasta de migração Database/migrations 
+ * Configurar arquivo knex para criar arquivo de migração dentro da pasta database/migrations
+ * Instalar o "axios" para requisição de rotas.
+ -----------------------------------------------------
+ *
+ Entidade da Aplicação: tudo aquilo que representa um dado salvo no DB.
+
+ Entidades:
+    - ONG
+    - Caso
+
+Funcionalidades:
+    - Login de ONG
+    - Cadastro de ONG
+    - Logout ONG
+    - Cadastrar Caso
+    - Deletar Caso
+    - Listar Casos especificos de uma ONG.
+    - Listar todos os Casos
+    - Entrar em Contato com a ONG 
+
+
+
+
+    
