@@ -32,7 +32,8 @@ Backend:
  * Configurar as rotas (routes) entre index.js e routes.js
  * Criar pasta de migração Database/migrations 
  * Configurar arquivo knex para criar arquivo de migração dentro da pasta database/migrations
- * Instalar o "axios" para requisição de rotas.
+ * Instalar o "axios" para requisição de rotas (cliente http responsavel por fazer requerimentos no node).
+ * Instalar INTL para converter valor como real(R$) android -- para iOS n é necessário.
  -----------------------------------------------------
  *
  Entidade da Aplicação: tudo aquilo que representa um dado salvo no DB.
