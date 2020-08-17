@@ -6,19 +6,7 @@
   🚀 Semana OmniStack 11.0
 </h4>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apsampaio/semana-omnistack-11">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/apsampaio/semana-omnistack-11">
-  
-  <a href="https://github.com/apsampaio/semana-omnistack-11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/apsampaio/semana-omnistack-11">
-  </a>
-
-  <a href="https://github.com/apsampaio/semana-omnistack-11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/apsampaio/semana-omnistack-11">
-  </a>
-</p>
 
 
 <br>
