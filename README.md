@@ -23,9 +23,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src="git/prev.png" width="100%">
-</p>
 
 ## :rocket: Tecnologias
 
