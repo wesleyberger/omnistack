@@ -6,6 +6,11 @@
     <img alt="Be the Hero" src="frontend/public/bethehero.png" width="500px" />
 </h1>
 
+<h1 align="center">
+    <img alt="Be the Hero" src="frontend/public/betheheroCad.png" width="500px" />
+     <img alt="Be the Hero" src="frontend/public/betheheroCasos.png" width="500px" />
+</h1>
+
 
 <h4 align="center">
   🚀 Semana OmniStack 11.0
