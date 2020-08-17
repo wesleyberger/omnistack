@@ -6,11 +6,7 @@
   🚀 Semana OmniStack 11.0
 </h4>
 
-
-
-
 <br>
-
 
 ## :rocket: Tecnologias
 
