@@ -30,7 +30,7 @@ O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tor
 
 #### Clonando o projeto
 ```sh
-git clone https://github.com/apsampaio/semana-omnistack-11.git
+git clone https://github.com/wesleyberger/Omnistack.git
 cd semana-omnistack-11
 npm install
 ```
