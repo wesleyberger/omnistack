@@ -7,8 +7,8 @@
 </h1>
 
 <h1 align="center">
-    <img alt="Be the Hero" src="frontend/public/betheheroCad.png" width="470px" height="500px" />
-     <img alt="Be the Hero" src="frontend/public/betheherocasos.png" width="470px" height="500px"/>
+    <img alt="Be the Hero" src="frontend/public/betheheroCad.png" width="480px" height="430px" />
+     <img alt="Be the Hero" src="frontend/public/betheherocasos.png" width="480px" height="430px"/>
 </h1>
 
 
